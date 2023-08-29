@@ -1,8 +1,36 @@
 * {
-    background-color: black;
+    background-color: rgba(35, 224, 2, 0.937);
+    font-family: "Lucida Console", "Courier New", monospace;
 }
 
 .header {
-    font-size: 32px;
-    color: white;
+    font-size: 38px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-weight: 900;
+}
+
+#list {
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+
+}
+
+.first {
+    font-size: 27px;
+    color: rgb(17, 64, 255);
+    font-weight: 700;
+}
+
+li {
+    font-size: 21px;
+}
+
+.disc {
+    font-size: 21px;
+}
+
+.hello {
+    width: 500px;
+    height: auto;
 }
